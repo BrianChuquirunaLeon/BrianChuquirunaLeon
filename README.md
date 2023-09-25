@@ -1,5 +1,5 @@
-## Hey, what's going on?! Brian Chuquiruna is here 👨‍💻✌️
-I'm a computer sience engineer who loves creating new things and learn something new each day.
+## Hey Brian Chuquiruna is here! 👨‍💻✌️
+I'm a computer science engineer who loves creating new things and learn something new everyday.
 
 ### Projects 🦾🚀
 I really like doing personal projects related to mobile aplications and machine learning.
